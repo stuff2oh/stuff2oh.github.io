@@ -10,6 +10,10 @@ We start at the beginning and work our way through the basics of programming.
 
 ### Pod Pi Series Solutions
 
+"PodPi is an immersive, literacy based and hands-on program to learn coding and electronics with a series of adventures."
+
+"The Island of PodPi is a series of Arduino-based kits coupled with fun comic books that will inspire your child or students to learn about electronics and JavaScript coding. The engaging lessons use our own popular comic book format for hours of learning." - PodPi Website
+
  - [Buy complete set of PodPi Modules](https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
 
 #### Helpful Links
