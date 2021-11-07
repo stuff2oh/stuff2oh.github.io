@@ -8,7 +8,9 @@ This site serves to organize and document all that we do.  All the information i
 
 We start at the beginning and work our way through the basics of programming.
 
-### Pod Pi Series Solutions [Buy complete set of PodPi Modules(https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
+### Pod Pi Series Solutions
+
+ - [Buy complete set of PodPi Modules(https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
 
 #### Helpful Links
 
