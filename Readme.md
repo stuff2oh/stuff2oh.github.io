@@ -10,7 +10,7 @@ We start at the beginning and work our way through the basics of programming.
 
 ### Pod Pi Series Solutions
 
- - [Buy complete set of PodPi Modules(https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
+ - [Buy complete set of PodPi Modules](https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
 
 #### Helpful Links
 
