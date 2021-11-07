@@ -14,7 +14,7 @@ We start at the beginning and work our way through the basics of programming.
 
 "The Island of PodPi is a series of Arduino-based kits coupled with fun comic books that will inspire your child or students to learn about electronics and JavaScript coding. The engaging lessons use our own popular comic book format for hours of learning." - PodPi Website
 
- - [Buy complete set of PodPi Modules](https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
+ - [Shop PodPi](https://shop.podpi.com/)
 
 #### Helpful Links
 
@@ -22,7 +22,6 @@ We start at the beginning and work our way through the basics of programming.
 
 #### 5 - Measure Up 
 
-- [Buy from PodPi Store](https://shop.podpi.com/collections/single-modules/products/module-5-measure-up)
 - [Ohmmeter - Find the value for a resistor](podpi/05_ohmmeter.js)
 
 ### Markdown
