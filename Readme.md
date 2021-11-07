@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Links
 
 - [Duck Duck Go](https://duckduckgo.com)
-- [PodPi Series Solutions](/stuff2oh/podpi/)
+- [a relative PodPi Series Solutions](stuff2oh/podpi/)
 
 ### Markdown
 
