@@ -1,8 +1,8 @@
 ## Welcome to Stuff 2.0
 
-You can use the [editor on GitHub](https://github.com/jlawrence71/jlawrence71.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Stuff2.0 is an organization dedicated to learning and teaching the next generation of makers and thinkers with a hands on approach. Whether it's programming, electronics, 3d printing, laser cutting or other skills, we have you covered.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site serves to organize and document all that we do.  All the information is free to use and share.  Just don't poach it and call it your own. ;)
 
 ### Intro to programming using 'Processing' Javasript style
 
@@ -14,8 +14,9 @@ We start at the beginning and work our way through the basics of programming.
 
  - [Johhny Five Reference](http://johnny-five.io/api/)
 
-#### 5 - Measure Up - [Buy from PodPi Store](https://shop.podpi.com/collections/single-modules/products/module-5-measure-up)
+#### 5 - Measure Up 
 
+- [Buy from PodPi Store](https://shop.podpi.com/collections/single-modules/products/module-5-measure-up)
 - [Ohmmeter - Find the value for a resistor](podpi/05_ohmmeter.js)
 
 ### Markdown
