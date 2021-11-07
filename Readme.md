@@ -4,11 +4,19 @@ You can use the [editor on GitHub](https://github.com/jlawrence71/jlawrence71.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Intro to programming using 'Processing' Javasript style
+
+We start at the beginning and work our way through the basics of programming.
+
 ### Pod Pi Series Solutions
 
-#### 5 - Measure Up
+#### Helpful Links
 
-- [Ohmmeter](podpi/05_ohmmeter.js)
+ - [Johhny Five Reference](http://johnny-five.io/api/)
+
+#### 5 - Measure Up - [Buy from PodPi Store]()
+
+- [Ohmmeter - Find the value for a resistor](podpi/05_ohmmeter.js)
 
 ### Markdown
 
