@@ -8,13 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 We start at the beginning and work our way through the basics of programming.
 
-### Pod Pi Series Solutions
+### Pod Pi Series Solutions [Buy complete set of PodPi Modules(https://shop.podpi.com/collections/all-education-kits/products/arghuino-12-month-subscription-1)
 
 #### Helpful Links
 
  - [Johhny Five Reference](http://johnny-five.io/api/)
 
-#### 5 - Measure Up - [Buy from PodPi Store]()
+#### 5 - Measure Up - [Buy from PodPi Store](https://shop.podpi.com/collections/single-modules/products/module-5-measure-up)
 
 - [Ohmmeter - Find the value for a resistor](podpi/05_ohmmeter.js)
 
