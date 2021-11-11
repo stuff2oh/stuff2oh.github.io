@@ -8,14 +8,10 @@
 
 - We start at the beginning and work our way through the basics of programming.
 
-### Pod Pi Series Solutions
+### Pod Pi resources
 
-- "PodPi is an immersive, literacy based and hands-on program to learn coding and electronics with a series of adventures."
+ - [Solutions](podpi/)
 
-- "The Island of PodPi is a series of Arduino-based kits coupled with fun comic books that will inspire your child or students to learn about electronics and JavaScript coding. The engaging lessons use our own popular comic book format for hours of learning." - PodPi Website
+### Processing & JavaScript resources
 
- - [Pod Pi Solutions](podpi/)
-
-### Learn programming with Javascript and Processing
-
-- [Lesson 1 - Intro to Processing and javascript](processing/ProcessingIntro.pdf)
+- [Lessons](processing/)
