@@ -14,15 +14,7 @@ We start at the beginning and work our way through the basics of programming.
 
 "The Island of PodPi is a series of Arduino-based kits coupled with fun comic books that will inspire your child or students to learn about electronics and JavaScript coding. The engaging lessons use our own popular comic book format for hours of learning." - PodPi Website
 
- - [Shop PodPi](https://shop.podpi.com/)
-
-#### Helpful Links
-
- - [Johhny Five Reference](http://johnny-five.io/api/)
-
-#### 5 - Measure Up 
-
-- [Ohmmeter - Find the value for a resistor](podpi/05_ohmmeter.js)
+ - [Pod Pi Solutions](podpi/)
 
 ### Learn programming with Javascript and Processing
 
