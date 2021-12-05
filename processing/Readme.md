@@ -9,3 +9,4 @@
 
 ### Solutions
 
+ - [All Solutions](https://stuff2oh.github.io/processing/)
