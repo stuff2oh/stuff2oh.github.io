@@ -9,4 +9,4 @@
 
 ### Solutions
 
- - [Solution 2.0](https://stuff2oh.github.io/processing/Lesson2_0.js)
+ - [Solution 2.0](https://stuff2oh.github.io/processing/lesson2_0.js)
